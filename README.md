@@ -9,15 +9,15 @@
 
 # Soal Latihan Praktikum 
 
-![alt text](soal1.png)
+![soal1](https://github.com/anandarahmadani/praktikum5/assets/147919907/6a702dfc-12ea-4a38-8c07-0162bec7330d)
 
-![alt text](soal2.png)
+![soal2](https://github.com/anandarahmadani/praktikum5/assets/147919907/bd6a4c20-c18d-4a71-b05c-b7022a97530b)
 
-![alt text](soal3.png)
+![soal3](https://github.com/anandarahmadani/praktikum5/assets/147919907/90007dd8-3bb0-4b75-b5e0-0faa4839a42b)
 
-![alt text](soal4.png)
+![soal4](https://github.com/anandarahmadani/praktikum5/assets/147919907/9f6c50ce-9e22-4add-8a4e-a5560b498883)
 
-![alt text](soal5.png)
+![soal5](https://github.com/anandarahmadani/praktikum5/assets/147919907/7e0e19e1-1a99-4214-8c16-fac4ed509aa6)
 
 ## Latihan
 
@@ -46,7 +46,7 @@ INSERT INTO mahasiswa VALUES
 SELECT*FROM Mahasiswa;
 `````
 Output :
-![alt text](OUTPUT.png)
+![OUTPUT](https://github.com/anandarahmadani/praktikum5/assets/147919907/079d0f1e-f480-4b4a-8a48-2338aa9b9998)
 
 `````
 insert into dosen values
@@ -60,7 +60,7 @@ SELECT*FROM Dosen;
 
 `````
 Output :
-![alt text](FD.png)
+![FD](https://github.com/anandarahmadani/praktikum5/assets/147919907/58e740e1-1f3c-4952-9a37-e6f43e8bf9cb)
 
 `````
 INSERT INTO Matakuliah VALUES
@@ -76,7 +76,7 @@ INSERT INTO Matakuliah VALUES
 SELECT * FROM Matakuliah;
 `````
 Output :
-![alt text](FM.png)
+![FM](https://github.com/anandarahmadani/praktikum5/assets/147919907/2d32d1ac-4663-4fc3-9f25-844a59003a56)
 
 `````
 INSERT INTO JadwalMengajar VALUES
@@ -92,7 +92,7 @@ INSERT INTO JadwalMengajar VALUES
 SELECT*FROM JadwalMengajar;
 `````
 Output :
-![alt text](FJM.png)
+![FJM](https://github.com/anandarahmadani/praktikum5/assets/147919907/6487ce0b-bfe7-4414-81df-ff31ec3014ee)
 
 `````
 INSERT INTO KRSMahasiswa VALUES
@@ -106,7 +106,7 @@ INSERT INTO KRSMahasiswa VALUES
 SELECT * FROM KRSMahasiswa;
 `````
 Output :
-![alt text](FKRS.png)
+![JKRS](https://github.com/anandarahmadani/praktikum5/assets/147919907/63e17422-9399-4229-bcb1-aa605f3f245d)
 
 # Latihan
 - JOIN table Mahasiswa dan Dosen
